@@ -4,7 +4,7 @@
 #
 Name     : perl-Roman
 Version  : 1.24
-Release  : 13
+Release  : 14
 URL      : https://cpan.metacpan.org/authors/id/C/CH/CHORNY/Roman-1.24.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/C/CH/CHORNY/Roman-1.24.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libr/libroman-perl/libroman-perl_1.24-1.debian.tar.xz
@@ -103,4 +103,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Roman.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Roman.pm
