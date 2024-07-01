@@ -4,7 +4,7 @@
 #
 Name     : perl-Roman
 Version  : 1.24
-Release  : 25
+Release  : 26
 URL      : https://cpan.metacpan.org/authors/id/C/CH/CHORNY/Roman-1.24.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/C/CH/CHORNY/Roman-1.24.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libr/libroman-perl/libroman-perl_1.24-1.debian.tar.xz
